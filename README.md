@@ -1,4 +1,3 @@
-![THIS](https://pillow.s-ul.eu/6ev89Z6J)
 
 # Basic Setup
 
@@ -7,7 +6,6 @@
 
 3) Go to the Script editor.
 
-![script editor](https://pillow.s-ul.eu/iLfUuy9l.png)
 
 4) Paste the contents of `google script.js`.
 
